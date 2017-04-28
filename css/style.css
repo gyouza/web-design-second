@@ -12,39 +12,30 @@
   box-sizing: border-box;
 }
 
-/* bodyの背景色を変更しています。 */
 body {
   background: #f9f9f9;
 }
 
 .col-1 {
-  /* 1カラムの設定です */
   width: 100px;
   padding: 5px;
   float: left;
   overflow: hidden;
-  /* コメントアウトの仕方は、「command + /」または「ctrl + /」 */
-  /* ここからレイアウトが組み終わったらコメントアウトをする */
   height: 150px;
   background-color: rgba(200, 10, 2, 0.4);
   margin-bottom: 5px;
   border: 1px solid black;
-  /* ここまでレイアウトが組み終わったらコメントアウトをする */
 }
 
 .col-2 {
-  /* 2カラムの設定です */
   width: 200px;
   padding: 5px;
   float: left;
   overflow: hidden;
-  /* コメントアウトの仕方は、「command + /」または「ctrl + /」 */
-  /* ここからレイアウトが組み終わったらコメントアウトをする */
   height: 150px;
   background-color: rgba(200, 20, 4, 0.4);
   margin-bottom: 5px;
   border: 1px solid black;
-  /* ここまでレイアウトが組み終わったらコメントアウトをする */
 }
 
 .col-3 {
